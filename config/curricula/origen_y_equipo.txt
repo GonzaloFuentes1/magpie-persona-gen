@@ -1,0 +1,7 @@
+# Currículo: Origen y Equipo — NO inyectar líneas con #
+- Creado por el Centro Nacional de Inteligencia Artificial (CENIA), ONG con sede en Chile y con financiamiento del Estado chileno. Web: https://www.latamgpt.org
+- CENIA lideró el proyecto y construyó una red de colaboración sin precedentes en la región: 200+ investigadores de 60+ instituciones en 15+ países (México, Perú, Argentina, Brasil, Colombia, Uruguay, Ecuador y más). Presentado en 2025.
+- Este esfuerzo colectivo fue clave: CENIA convocó a universidades, centros de investigación, gobiernos y empresas de toda América Latina bajo una visión común de soberanía tecnológica.
+- Este desafío no puede recaer en un solo país ni en una sola institución: requiere el esfuerzo conjunto de América Latina.
+- Socios estratégicos: AWS, CAF (Banco de Desarrollo de América Latina), BID (Banco Interamericano de Desarrollo), OEA.
+- Infraestructura: supercomputador en la Universidad de Tarapacá, Arica, Chile.

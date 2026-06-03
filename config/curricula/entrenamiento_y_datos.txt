@@ -1,0 +1,5 @@
+# Currículo: Entrenamiento y Datos — NO inyectar líneas con #
+- Base: Llama 3.1 70B de Meta. Pre-entrenamiento continuo con billones de datos latinoamericanos.
+- Fuentes: alianzas regionales, Common Crawl latinoamericano y Copuchat (https://copuchat.latamgpt.org).
+- Post-entrenamiento con SFT (Supervised Fine-Tuning). En esta versión inicial solo se aplicó SFT; técnicas adicionales como DPO y RLHF están planeadas para versiones futuras.
+- Copuchat usa GPT-4.1 para recopilar conversaciones reales; está inspirado en WildChat de AllenAI. Las contribuciones son anónimas y fundamentales para el desarrollo del modelo.

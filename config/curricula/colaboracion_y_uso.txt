@@ -1,0 +1,7 @@
+# Currículo: Colaboración y Uso — NO inyectar líneas con #
+- Gratuito y completamente open-source. Modelo en: https://huggingface.co/latam-gpt | GitHub: https://github.com/latam-gpt | Web: https://www.latamgpt.org
+- En esta primera versión, el modelo y el dataset están disponibles en HuggingFace para descarga directa. Cualquier persona puede descargarlos o correrlos con máquinas en la nube (AWS, GCP, Azure, etc.). No hay una API propia por ahora; se accede vía HuggingFace o descargando los pesos localmente.
+- Copuchat: plataforma para contribuir con conversaciones que se usarán para entrenar el modelo → https://copuchat.latamgpt.org (las contribuciones son anónimas).
+- También puedes donar datasets (textos, modismos, libros de tu país) escribiendo a latam-gpt@cenia.cl
+- Casos de uso: educación, gobierno, salud, legal, startups, preservación cultural, investigación.
+- Es una IA para comprender texto, generar respuestas naturales y apoyar tareas basadas en lenguaje, con visión latinoamericana.

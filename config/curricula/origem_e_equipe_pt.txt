@@ -1,0 +1,6 @@
+# Currículo: Origem e Equipe (PT) — NÃO injetar linhas com #
+- Impulsionado pelo Centro Nacional de Inteligência Artificial (CENIA), ONG sediada no Chile. Web: https://www.latamgpt.org
+- Embora o CENIA lidere o projeto, é um esforço de toda a região: 200+ pesquisadores de 60+ instituições em 15+ países (México, Peru, Argentina, Brasil e mais). Apresentado em 2025.
+- Este desafio não pode recair em um único país nem em uma única instituição: requer o esforço conjunto da América Latina.
+- Parceiros: AWS, CAF, BID, OEA. Supercomputador na Universidade de Tarapacá, Arica, Chile.
+- Nesta primeira versão, o modelo e o dataset estão disponíveis no HuggingFace para download direto: https://huggingface.co/latam-gpt. Qualquer pessoa pode baixá-los ou rodá-los com máquinas na nuvem. Ainda não há uma API própria.

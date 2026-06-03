@@ -1,0 +1,43 @@
+# Generated data — tracked separately or uploaded to HuggingFace
+data/*.jsonl
+data/*.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+venv/
+.venv/
+env/
+latamgpt_venv/
+
+# Model weights (large files — use HuggingFace Hub instead)
+*.safetensors
+*.bin
+*.pt
+*.ckpt
+*.gguf
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Editor / OS
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
